@@ -1,0 +1,94 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="POOQ|K01" tvg-name="POOQ|KBS 1TV" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K01.jpg" group-title="POOQ",KBS 1TV
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=K01
+#EXTINF:-1 tvg-id="POOQ|K02" tvg-name="POOQ|KBS 2TV" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K02.jpg" group-title="POOQ",KBS 2TV
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=K02
+#EXTINF:-1 tvg-id="POOQ|M01" tvg-name="POOQ|MBC" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M01.jpg" group-title="POOQ",MBC
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=M01
+#EXTINF:-1 tvg-id="POOQ|S01" tvg-name="POOQ|SBS" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S01.jpg" group-title="POOQ",SBS
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=S01
+#EXTINF:-1 tvg-id="POOQ|C2301" tvg-name="POOQ|JTBC" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2301.jpg" group-title="POOQ",JTBC
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=C2301
+#EXTINF:-1 tvg-id="POOQ|C2401" tvg-name="POOQ|MBN" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2401.jpg" group-title="POOQ",MBN
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=C2401
+#EXTINF:-1 tvg-id="POOQ|C2601" tvg-name="POOQ|TV CHOSUN" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2601.jpg" group-title="POOQ",TV CHOSUN
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=C2601
+#EXTINF:-1 tvg-id="POOQ|C2501" tvg-name="POOQ|채널A" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/1280x720.jpg" group-title="POOQ",채널A
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=C2501
+#EXTINF:-1 tvg-id="POOQ|Y01" tvg-name="POOQ|연합뉴스TV" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/Y01.jpg" group-title="POOQ",연합뉴스TV
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=Y01
+#EXTINF:-1 tvg-id="POOQ|C2101" tvg-name="POOQ|YTN" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2101.jpg" group-title="POOQ",YTN
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=C2101
+#EXTINF:-1 tvg-id="POOQ|H02" tvg-name="POOQ|PLAYY 프리미엄 영화" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/H02.jpg" group-title="POOQ",PLAYY 프리미엄 영화
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=H02
+#EXTINF:-1 tvg-id="POOQ|H01" tvg-name="POOQ|PLAYY 웰메이드 영화" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/H01.jpg" group-title="POOQ",PLAYY 웰메이드 영화
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=H01
+#EXTINF:-1 tvg-id="POOQ|H07" tvg-name="POOQ|PLAYY 액션영화" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/H07.jpg" group-title="POOQ",PLAYY 액션영화
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=H07
+#EXTINF:-1 tvg-id="POOQ|S02" tvg-name="POOQ|SBS Sports" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S02.jpg" group-title="POOQ",SBS Sports
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=S02
+#EXTINF:-1 tvg-id="POOQ|C2304" tvg-name="POOQ|JTBC3 FOX Sports" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/jtbc3_730_411.jpg" group-title="POOQ",JTBC3 FOX Sports
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=C2304
+#EXTINF:-1 tvg-id="POOQ|C2302" tvg-name="POOQ|JTBC Golf" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2302.jpg" group-title="POOQ",JTBC Golf
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=C2302
+#EXTINF:-1 tvg-id="POOQ|K12" tvg-name="POOQ|CCTV4" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4301.jpg" group-title="POOQ",CCTV4
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=K12
+#EXTINF:-1 tvg-id="POOQ|C5901" tvg-name="POOQ|HISTORY" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/history-1.jpg" group-title="POOQ",HISTORY
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=C5901
+#EXTINF:-1 tvg-id="POOQ|C5902" tvg-name="POOQ|LIFETIME" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/lifetime-1.jpg" group-title="POOQ",LIFETIME
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=C5902
+#EXTINF:-1 tvg-id="POOQ|K05" tvg-name="POOQ|KBSN Life" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K05.jpg" group-title="POOQ",KBSN Life
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=K05
+#EXTINF:-1 tvg-id="POOQ|M03" tvg-name="POOQ|MBC Every1" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M03.jpg" group-title="POOQ",MBC Every1
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=M03
+#EXTINF:-1 tvg-id="POOQ|S13" tvg-name="POOQ|SBS Mobidic" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S13.jpg" group-title="POOQ",SBS Mobidic
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=S13
+#EXTINF:-1 tvg-id="POOQ|C5501" tvg-name="POOQ|채널J" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C5501.jpg" group-title="POOQ",채널J
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=C5501
+#EXTINF:-1 tvg-id="POOQ|C3901" tvg-name="POOQ|채널W" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C3901.jpg" group-title="POOQ",채널W
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=C3901
+#EXTINF:-1 tvg-id="POOQ|K06" tvg-name="POOQ|KBS DRAMA" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K06.jpg" group-title="POOQ",KBS DRAMA
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=K06
+#EXTINF:-1 tvg-id="POOQ|M02" tvg-name="POOQ|MBC Drama" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M02.jpg" group-title="POOQ",MBC Drama
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=M02
+#EXTINF:-1 tvg-id="POOQ|C5101" tvg-name="POOQ|AsiaN" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C5101.jpg" group-title="POOQ",AsiaN
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=C5101
+#EXTINF:-1 tvg-id="POOQ|M06" tvg-name="POOQ|MBC Music" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M06.jpg" group-title="POOQ",MBC Music
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=M06
+#EXTINF:-1 tvg-id="POOQ|M10" tvg-name="POOQ|ALL THE K-POP" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M10.jpg" group-title="POOQ",ALL THE K-POP
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=M10
+#EXTINF:-1 tvg-id="POOQ|S09" tvg-name="POOQ|SBS MTV" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S09.jpg" group-title="POOQ",SBS MTV
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=S09
+#EXTINF:-1 tvg-id="POOQ|C2303" tvg-name="POOQ|JTBC2" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2303.jpg" group-title="POOQ",JTBC2
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=C2303
+#EXTINF:-1 tvg-id="POOQ|K04" tvg-name="POOQ|KBS JOY" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K04.jpg" group-title="POOQ",KBS JOY
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=K04
+#EXTINF:-1 tvg-id="POOQ|K09" tvg-name="POOQ|KBS W" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K09.jpg" group-title="POOQ",KBS W
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=K09
+#EXTINF:-1 tvg-id="POOQ|S03" tvg-name="POOQ|SBS Plus" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S03.jpg" group-title="POOQ",SBS Plus
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=S03
+#EXTINF:-1 tvg-id="POOQ|S04" tvg-name="POOQ|SBS funE" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S04.jpg" group-title="POOQ",SBS funE
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=S04
+#EXTINF:-1 tvg-id="POOQ|C5401" tvg-name="POOQ|SPOTV GAMES" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C5401.jpg" group-title="POOQ",SPOTV GAMES
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=C5401
+#EXTINF:-1 tvg-id="POOQ|S06" tvg-name="POOQ|SBS CNBC" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S06.jpg" group-title="POOQ",SBS CNBC
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=S06
+#EXTINF:-1 tvg-id="POOQ|A01" tvg-name="POOQ|ANIMAX" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/A01.jpg" group-title="POOQ",ANIMAX
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=A01
+#EXTINF:-1 tvg-id="POOQ|E05" tvg-name="POOQ|EBS Kids" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/E05.jpg" group-title="POOQ",EBS Kids
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=E05
+#EXTINF:-1 tvg-id="POOQ|D02" tvg-name="POOQ|Disney Junior" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/D02.jpg" group-title="POOQ",Disney Junior
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=D02
+#EXTINF:-1 tvg-id="POOQ|S10" tvg-name="POOQ|Nick" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S10.jpg" group-title="POOQ",Nick
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=S10
+#EXTINF:-1 tvg-id="POOQ|K17" tvg-name="POOQ|뽀로로TV" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K17.jpg" group-title="POOQ",뽀로로TV
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=K17
+#EXTINF:-1 tvg-id="POOQ|C4401" tvg-name="POOQ|ANIBOX" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4401.jpg" group-title="POOQ",ANIBOX
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=C4401
+#EXTINF:-1 tvg-id="POOQ|E01" tvg-name="POOQ|EBS" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/E01.jpg" group-title="POOQ",EBS
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=E01
+#EXTINF:-1 tvg-id="POOQ|E07" tvg-name="POOQ|EBS 2" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/E07.jpg" group-title="POOQ",EBS 2
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=E07
+#EXTINF:-1 tvg-id="POOQ|D01" tvg-name="POOQ|Disney" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/D01.jpg" group-title="POOQ",Disney
+http://hohoyoun.iptime.org:9801/url?mode=url&type=POOQ&id=D01
