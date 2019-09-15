@@ -1,0 +1,318 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="pooq|K01" tvg-name="KBS 1TV" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/KBS-1TV-1.jpg" group-title="pooq",pooq KBS 1TV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=K01
+#EXTINF:-1 tvg-id="pooq|K02" tvg-name="KBS 2TV" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/KBS-2TV-1.jpg" group-title="pooq",pooq KBS 2TV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=K02
+#EXTINF:-1 tvg-id="pooq|M01" tvg-name="MBC" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M01.jpg" group-title="pooq",pooq MBC
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=M01
+#EXTINF:-1 tvg-id="pooq|S01" tvg-name="SBS" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S01.jpg" group-title="pooq",pooq SBS
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=S01
+#EXTINF:-1 tvg-id="pooq|E01" tvg-name="EBS" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/E01.jpg" group-title="pooq",pooq EBS
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=E01
+#EXTINF:-1 tvg-id="pooq|E07" tvg-name="EBS 2" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/E07.jpg" group-title="pooq",pooq EBS 2
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=E07
+#EXTINF:-1 tvg-id="pooq|C2301" tvg-name="JTBC" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2301.jpg" group-title="pooq",pooq JTBC
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C2301
+#EXTINF:-1 tvg-id="pooq|C2401" tvg-name="MBN" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2401.jpg" group-title="pooq",pooq MBN
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C2401
+#EXTINF:-1 tvg-id="pooq|C2601" tvg-name="TV CHOSUN" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2601.jpg" group-title="pooq",pooq TV CHOSUN
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C2601
+#EXTINF:-1 tvg-id="pooq|C2501" tvg-name="채널A" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/1280x720.jpg" group-title="pooq",pooq 채널A
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C2501
+#EXTINF:-1 tvg-id="pooq|Y01" tvg-name="연합뉴스TV" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/Y01.jpg" group-title="pooq",pooq 연합뉴스TV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=Y01
+#EXTINF:-1 tvg-id="pooq|C2101" tvg-name="YTN" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2101.jpg" group-title="pooq",pooq YTN
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C2101
+#EXTINF:-1 tvg-id="pooq|S06" tvg-name="SBS CNBC" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S06.jpg" group-title="pooq",pooq SBS CNBC
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=S06
+#EXTINF:-1 tvg-id="pooq|K12" tvg-name="CCTV4" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4301.jpg" group-title="pooq",pooq CCTV4
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=K12
+#EXTINF:-1 tvg-id="pooq|C5901" tvg-name="HISTORY" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/history-1.jpg" group-title="pooq",pooq HISTORY
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C5901
+#EXTINF:-1 tvg-id="pooq|C5902" tvg-name="LIFETIME" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/lifetime-1.jpg" group-title="pooq",pooq LIFETIME
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C5902
+#EXTINF:-1 tvg-id="pooq|C4201" tvg-name="GS SHOP" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4201.jpg" group-title="pooq",pooq GS SHOP
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C4201
+#EXTINF:-1 tvg-id="pooq|C4101" tvg-name="현대홈쇼핑" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4101.jpg" group-title="pooq",pooq 현대홈쇼핑
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C4101
+#EXTINF:-1 tvg-id="pooq|C4202" tvg-name="GS MY SHOP" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4202.jpg" group-title="pooq",pooq GS MY SHOP
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C4202
+#EXTINF:-1 tvg-id="pooq|C4102" tvg-name="현대홈쇼핑+샵" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4102.jpg" group-title="pooq",pooq 현대홈쇼핑+샵
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C4102
+#EXTINF:-1 tvg-id="pooq|C4901" tvg-name="쇼핑엔티" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4901.jpg" group-title="pooq",pooq 쇼핑엔티
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C4901
+#EXTINF:-1 tvg-id="pooq|C4801" tvg-name="신세계TV쇼핑" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4801.jpg" group-title="pooq",pooq 신세계TV쇼핑
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C4801
+#EXTINF:-1 tvg-id="pooq|K15" tvg-name="KBS 1박 2일" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K15.jpg" group-title="pooq",pooq KBS 1박 2일
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=K15
+#EXTINF:-1 tvg-id="pooq|K06" tvg-name="KBS DRAMA" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K06.jpg" group-title="pooq",pooq KBS DRAMA
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=K06
+#EXTINF:-1 tvg-id="pooq|K04" tvg-name="KBS JOY" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K04.jpg" group-title="pooq",pooq KBS JOY
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=K04
+#EXTINF:-1 tvg-id="pooq|K05" tvg-name="KBSN Life" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K05.jpg" group-title="pooq",pooq KBSN Life
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=K05
+#EXTINF:-1 tvg-id="pooq|K09" tvg-name="KBS W" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K09.jpg" group-title="pooq",pooq KBS W
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=K09
+#EXTINF:-1 tvg-id="pooq|PM1" tvg-name="MBC 무한도전" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/PM1.jpg" group-title="pooq",pooq MBC 무한도전
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=PM1
+#EXTINF:-1 tvg-id="pooq|M06" tvg-name="MBC Music" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M06.jpg" group-title="pooq",pooq MBC Music
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=M06
+#EXTINF:-1 tvg-id="pooq|M02" tvg-name="MBC Drama" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M02.jpg" group-title="pooq",pooq MBC Drama
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=M02
+#EXTINF:-1 tvg-id="pooq|M03" tvg-name="MBC Every1" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M03.jpg" group-title="pooq",pooq MBC Every1
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=M03
+#EXTINF:-1 tvg-id="pooq|M10" tvg-name="ALL THE K-POP" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/M10.jpg" group-title="pooq",pooq ALL THE K-POP
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=M10
+#EXTINF:-1 tvg-id="pooq|PM2" tvg-name="MBC 나 혼자 산다" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/PM2.jpg" group-title="pooq",pooq MBC 나 혼자 산다
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=PM2
+#EXTINF:-1 tvg-id="pooq|S04" tvg-name="SBS funE" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S04.jpg" group-title="pooq",pooq SBS funE
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=S04
+#EXTINF:-1 tvg-id="pooq|S03" tvg-name="SBS Plus" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S03.jpg" group-title="pooq",pooq SBS Plus
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=S03
+#EXTINF:-1 tvg-id="pooq|S09" tvg-name="SBS MTV" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S09.jpg" group-title="pooq",pooq SBS MTV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=S09
+#EXTINF:-1 tvg-id="pooq|S13" tvg-name="SBS Mobidic" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S13.jpg" group-title="pooq",pooq SBS Mobidic
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=S13
+#EXTINF:-1 tvg-id="pooq|C2303" tvg-name="JTBC2" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2303.jpg" group-title="pooq",pooq JTBC2
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C2303
+#EXTINF:-1 tvg-id="pooq|K18" tvg-name="KBS 남자의 자격" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K18.jpg" group-title="pooq",pooq KBS 남자의 자격
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=K18
+#EXTINF:-1 tvg-id="pooq|M12" tvg-name="MBC 라디오스타" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/radiostar_channel_re.jpg" group-title="pooq",pooq MBC 라디오스타
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=M12
+#EXTINF:-1 tvg-id="pooq|H02" tvg-name="PLAYY 프리미엄 영화" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/H02.jpg" group-title="pooq",pooq PLAYY 프리미엄 영화
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=H02
+#EXTINF:-1 tvg-id="pooq|H01" tvg-name="PLAYY 웰메이드 영화" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/H01.jpg" group-title="pooq",pooq PLAYY 웰메이드 영화
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=H01
+#EXTINF:-1 tvg-id="pooq|H07" tvg-name="PLAYY 액션영화" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/H07.jpg" group-title="pooq",pooq PLAYY 액션영화
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=H07
+#EXTINF:-1 tvg-id="pooq|C4401" tvg-name="ANIBOX" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C4401.jpg" group-title="pooq",pooq ANIBOX
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C4401
+#EXTINF:-1 tvg-id="pooq|C5501" tvg-name="채널J" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C5501.jpg" group-title="pooq",pooq 채널J
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C5501
+#EXTINF:-1 tvg-id="pooq|C5101" tvg-name="AsiaN" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C5101.jpg" group-title="pooq",pooq AsiaN
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C5101
+#EXTINF:-1 tvg-id="pooq|C3901" tvg-name="채널W" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C3901.jpg" group-title="pooq",pooq 채널W
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C3901
+#EXTINF:-1 tvg-id="pooq|A01" tvg-name="ANIMAX" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/A01.jpg" group-title="pooq",pooq ANIMAX
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=A01
+#EXTINF:-1 tvg-id="pooq|E05" tvg-name="EBS Kids" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/E05.jpg" group-title="pooq",pooq EBS Kids
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=E05
+#EXTINF:-1 tvg-id="pooq|D02" tvg-name="Disney Junior" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/D02.jpg" group-title="pooq",pooq Disney Junior
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=D02
+#EXTINF:-1 tvg-id="pooq|D01" tvg-name="Disney" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/D01.jpg" group-title="pooq",pooq Disney
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=D01
+#EXTINF:-1 tvg-id="pooq|S10" tvg-name="Nick" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/S10.jpg" group-title="pooq",pooq Nick
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=S10
+#EXTINF:-1 tvg-id="pooq|K17" tvg-name="뽀로로TV" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/K17.jpg" group-title="pooq",pooq 뽀로로TV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=K17
+#EXTINF:-1 tvg-id="pooq|C2302" tvg-name="JTBC Golf" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C2302.jpg" group-title="pooq",pooq JTBC Golf
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C2302
+#EXTINF:-1 tvg-id="pooq|C2304" tvg-name="JTBC3 FOX Sports" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/jtbc3_730_411.jpg" group-title="pooq",pooq JTBC3 FOX Sports
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C2304
+#EXTINF:-1 tvg-id="pooq|C5401" tvg-name="SPOTV GAMES" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/C5401.jpg" group-title="pooq",pooq SPOTV GAMES
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C5401
+#EXTINF:-1 tvg-id="pooq|K07" tvg-name="KBS1RADIO" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_K07.jpg" group-title="pooq radio" radio="true",pooq KBS1RADIO
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=K07
+#EXTINF:-1 tvg-id="pooq|K08" tvg-name="KBSCOOLFM" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_K08.jpg" group-title="pooq radio" radio="true",pooq KBSCOOLFM
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=K08
+#EXTINF:-1 tvg-id="pooq|M07" tvg-name="MBC 표준 FM" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_M07.jpg" group-title="pooq radio" radio="true",pooq MBC 표준 FM
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=M07
+#EXTINF:-1 tvg-id="pooq|M08" tvg-name="MBC FM4U" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_M08.jpg" group-title="pooq radio" radio="true",pooq MBC FM4U
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=M08
+#EXTINF:-1 tvg-id="pooq|S07" tvg-name="SBS 파워FM" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_S07.jpg" group-title="pooq radio" radio="true",pooq SBS 파워FM
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=S07
+#EXTINF:-1 tvg-id="pooq|S08" tvg-name="SBS 러브FM" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_S08.jpg" group-title="pooq radio" radio="true",pooq SBS 러브FM
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=S08
+#EXTINF:-1 tvg-id="pooq|E06" tvg-name="EBS FM" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_E06.jpg" group-title="pooq radio" radio="true",pooq EBS FM
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=E06
+#EXTINF:-1 tvg-id="pooq|C2701" tvg-name="KISS - 최신인기가요" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_C2701.jpg" group-title="pooq radio" radio="true",pooq KISS - 최신인기가요
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C2701
+#EXTINF:-1 tvg-id="pooq|C2702" tvg-name="KISS - 발라드" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_C2702.jpg" group-title="pooq radio" radio="true",pooq KISS - 발라드
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C2702
+#EXTINF:-1 tvg-id="pooq|C2703" tvg-name="KISS - 8090인기가요" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_C2703.jpg" group-title="pooq radio" radio="true",pooq KISS - 8090인기가요
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C2703
+#EXTINF:-1 tvg-id="pooq|C2705" tvg-name="KISS - 2000년대 인기가요" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_C2705.jpg" group-title="pooq radio" radio="true",pooq KISS - 2000년대 인기가요
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C2705
+#EXTINF:-1 tvg-id="pooq|C2706" tvg-name="KISS - 재즈 라운지" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/수정됨_C2706.jpg" group-title="pooq radio" radio="true",pooq KISS - 재즈 라운지
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=pooq&i=C2706
+#EXTINF:-1 tvg-id="oksusu|240" tvg-name="JTBC" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_240.png" group-title="oksusu",oksusu JTBC
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=240
+#EXTINF:-1 tvg-id="oksusu|241" tvg-name="MBN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_241.png" group-title="oksusu",oksusu MBN
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=241
+#EXTINF:-1 tvg-id="oksusu|242" tvg-name="채널A" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_242.png" group-title="oksusu",oksusu 채널A
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=242
+#EXTINF:-1 tvg-id="oksusu|243" tvg-name="TV CHOSUN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_243.png" group-title="oksusu",oksusu TV CHOSUN
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=243
+#EXTINF:-1 tvg-id="oksusu|570" tvg-name="YTN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_570.png" group-title="oksusu",oksusu YTN
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=570
+#EXTINF:-1 tvg-id="oksusu|571" tvg-name="연합뉴스TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_571.png" group-title="oksusu",oksusu 연합뉴스TV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=571
+#EXTINF:-1 tvg-id="oksusu|70" tvg-name="OBS" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_70.png" group-title="oksusu",oksusu OBS
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=70
+#EXTINF:-1 tvg-id="oksusu|221" tvg-name="국회방송" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_221.png" group-title="oksusu",oksusu 국회방송
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=221
+#EXTINF:-1 tvg-id="oksusu|774" tvg-name="CNN International" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_774.png" group-title="oksusu",oksusu CNN International
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=774
+#EXTINF:-1 tvg-id="oksusu|620" tvg-name="토마토TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_620.png" group-title="oksusu",oksusu 토마토TV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=620
+#EXTINF:-1 tvg-id="oksusu|626" tvg-name="한국경제TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_626.png" group-title="oksusu",oksusu 한국경제TV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=626
+#EXTINF:-1 tvg-id="oksusu|622" tvg-name="팍스경제TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_622.png" group-title="oksusu",oksusu 팍스경제TV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=622
+#EXTINF:-1 tvg-id="oksusu|627" tvg-name="MTN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_627.png" group-title="oksusu",oksusu MTN
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=627
+#EXTINF:-1 tvg-id="oksusu|872" tvg-name="tvN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_872.png" group-title="oksusu",oksusu tvN
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=872
+#EXTINF:-1 tvg-id="oksusu|527" tvg-name="OtvN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_527.png" group-title="oksusu",oksusu OtvN
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=527
+#EXTINF:-1 tvg-id="oksusu|874" tvg-name="JTBC2" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_874.png" group-title="oksusu",oksusu JTBC2
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=874
+#EXTINF:-1 tvg-id="oksusu|185" tvg-name="XtvN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_185.png" group-title="oksusu",oksusu XtvN
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=185
+#EXTINF:-1 tvg-id="oksusu|431" tvg-name="Olive" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_431.png" group-title="oksusu",oksusu Olive
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=431
+#EXTINF:-1 tvg-id="oksusu|873" tvg-name="M.net" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_873.png" group-title="oksusu",oksusu M.net
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=873
+#EXTINF:-1 tvg-id="oksusu|426" tvg-name="On style" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_426.png" group-title="oksusu",oksusu On style
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=426
+#EXTINF:-1 tvg-id="oksusu|884" tvg-name="K star" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_884.png" group-title="oksusu",oksusu K star
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=884
+#EXTINF:-1 tvg-id="oksusu|905" tvg-name="CUBE TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_905.png" group-title="oksusu",oksusu CUBE TV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=905
+#EXTINF:-1 tvg-id="oksusu|178" tvg-name="OCN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_178.png" group-title="oksusu",oksusu OCN
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=178
+#EXTINF:-1 tvg-id="oksusu|904" tvg-name="드라맥스" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_904.png" group-title="oksusu",oksusu 드라맥스
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=904
+#EXTINF:-1 tvg-id="oksusu|357" tvg-name="PLAYY 프리미엄 영화" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_357.png" group-title="oksusu",oksusu PLAYY 프리미엄 영화
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=357
+#EXTINF:-1 tvg-id="oksusu|351" tvg-name="oksusu healing" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_351.png" group-title="oksusu",oksusu oksusu healing
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=351
+#EXTINF:-1 tvg-id="oksusu|186" tvg-name="중화TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_186.png" group-title="oksusu",oksusu 중화TV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=186
+#EXTINF:-1 tvg-id="oksusu|177" tvg-name="Asia N" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_177.png" group-title="oksusu",oksusu Asia N
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=177
+#EXTINF:-1 tvg-id="oksusu|271" tvg-name="라이프타임" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_271.png" group-title="oksusu",oksusu 라이프타임
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=271
+#EXTINF:-1 tvg-id="oksusu|788" tvg-name="BET" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_788.png" group-title="oksusu",oksusu BET
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=788
+#EXTINF:-1 tvg-id="oksusu|125" tvg-name="SPOTV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_125.png" group-title="oksusu",oksusu SPOTV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=125
+#EXTINF:-1 tvg-id="oksusu|424" tvg-name="SPOTV2" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_424.png" group-title="oksusu",oksusu SPOTV2
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=424
+#EXTINF:-1 tvg-id="oksusu|134" tvg-name="SPOTV+" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_134.png" group-title="oksusu",oksusu SPOTV+
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=134
+#EXTINF:-1 tvg-id="oksusu|350" tvg-name="SBS Golf" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_350.png" group-title="oksusu",oksusu SBS Golf
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=350
+#EXTINF:-1 tvg-id="oksusu|127" tvg-name="JTBC GOLF" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_127.png" group-title="oksusu",oksusu JTBC GOLF
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=127
+#EXTINF:-1 tvg-id="oksusu|135" tvg-name="Golf Channel Korea" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_135.png" group-title="oksusu",oksusu Golf Channel Korea
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=135
+#EXTINF:-1 tvg-id="oksusu|124" tvg-name="OGN" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_124.png" group-title="oksusu",oksusu OGN
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=124
+#EXTINF:-1 tvg-id="oksusu|254" tvg-name="SPOTV GAMES" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_254.png" group-title="oksusu",oksusu SPOTV GAMES
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=254
+#EXTINF:-1 tvg-id="oksusu|436" tvg-name="JTBC3 FOX SPORTS" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_436.png" group-title="oksusu",oksusu JTBC3 FOX SPORTS
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=436
+#EXTINF:-1 tvg-id="oksusu|120" tvg-name="Eurosport" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_120.png" group-title="oksusu",oksusu Eurosport
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=120
+#EXTINF:-1 tvg-id="oksusu|123" tvg-name="IB Sports" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_123.png" group-title="oksusu",oksusu IB Sports
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=123
+#EXTINF:-1 tvg-id="oksusu|781" tvg-name="Star Sports" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_781.png" group-title="oksusu",oksusu Star Sports
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=781
+#EXTINF:-1 tvg-id="oksusu|122" tvg-name="Billiards TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_122.png" group-title="oksusu",oksusu Billiards TV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=122
+#EXTINF:-1 tvg-id="oksusu|530" tvg-name="FTV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_530.png" group-title="oksusu",oksusu FTV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=530
+#EXTINF:-1 tvg-id="oksusu|273" tvg-name="FISHING TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_273.png" group-title="oksusu",oksusu FISHING TV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=273
+#EXTINF:-1 tvg-id="oksusu|528" tvg-name="바둑TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_528.png" group-title="oksusu",oksusu 바둑TV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=528
+#EXTINF:-1 tvg-id="oksusu|279" tvg-name="브레인TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_279.png" group-title="oksusu",oksusu 브레인TV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=279
+#EXTINF:-1 tvg-id="oksusu|329" tvg-name="oksusu 주니어" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_329.png" group-title="oksusu",oksusu oksusu 주니어
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=329
+#EXTINF:-1 tvg-id="oksusu|371" tvg-name="Animax" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_371.png" group-title="oksusu",oksusu Animax
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=371
+#EXTINF:-1 tvg-id="oksusu|334" tvg-name="디즈니채널" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_334.png" group-title="oksusu",oksusu 디즈니채널
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=334
+#EXTINF:-1 tvg-id="oksusu|335" tvg-name="디즈니주니어" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_335.png" group-title="oksusu",oksusu 디즈니주니어
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=335
+#EXTINF:-1 tvg-id="oksusu|378" tvg-name="JEI 재능TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_378.png" group-title="oksusu",oksusu JEI 재능TV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=378
+#EXTINF:-1 tvg-id="oksusu|374" tvg-name="어린이TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_374.png" group-title="oksusu",oksusu 어린이TV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=374
+#EXTINF:-1 tvg-id="oksusu|370" tvg-name="bravo kids" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_370.png" group-title="oksusu",oksusu bravo kids
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=370
+#EXTINF:-1 tvg-id="oksusu|824" tvg-name="플레이런TV" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_824.png" group-title="oksusu",oksusu 플레이런TV
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=824
+#EXTINF:-1 tvg-id="oksusu|15" tvg-name="EBS" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_15.png" group-title="oksusu",oksusu EBS
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=15
+#EXTINF:-1 tvg-id="oksusu|822" tvg-name="EBS English" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_822.png" group-title="oksusu",oksusu EBS English
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=822
+#EXTINF:-1 tvg-id="oksusu|820" tvg-name="EBS +1" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_820.png" group-title="oksusu",oksusu EBS +1
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=820
+#EXTINF:-1 tvg-id="oksusu|821" tvg-name="EBS +2" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_821.png" group-title="oksusu",oksusu EBS +2
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=821
+#EXTINF:-1 tvg-id="oksusu|773" tvg-name="Natgeo Wild HD" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_773.png" group-title="oksusu",oksusu Natgeo Wild HD
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=773
+#EXTINF:-1 tvg-id="oksusu|332" tvg-name="공영쇼핑" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_332.png" group-title="oksusu",oksusu 공영쇼핑
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=332
+#EXTINF:-1 tvg-id="oksusu|327" tvg-name="홈&쇼핑" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_327.png" group-title="oksusu",oksusu 홈&쇼핑
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=327
+#EXTINF:-1 tvg-id="oksusu|324" tvg-name="CJ오쇼핑" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_324.png" group-title="oksusu",oksusu CJ오쇼핑
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=324
+#EXTINF:-1 tvg-id="oksusu|321" tvg-name="현대홈쇼핑" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_321.png" group-title="oksusu",oksusu 현대홈쇼핑
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=321
+#EXTINF:-1 tvg-id="oksusu|323" tvg-name="롯데홈쇼핑" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_323.png" group-title="oksusu",oksusu 롯데홈쇼핑
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=323
+#EXTINF:-1 tvg-id="oksusu|320" tvg-name="GS SHOP" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_320.png" group-title="oksusu",oksusu GS SHOP
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=320
+#EXTINF:-1 tvg-id="oksusu|322" tvg-name="NS홈쇼핑" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_322.png" group-title="oksusu",oksusu NS홈쇼핑
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=322
+#EXTINF:-1 tvg-id="oksusu|330" tvg-name="SK stoa" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_330.png" group-title="oksusu",oksusu SK stoa
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=330
+#EXTINF:-1 tvg-id="oksusu|85" tvg-name="최신인기가요" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_85.png" group-title="oksusu radio" radio="true",oksusu 최신인기가요
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=85
+#EXTINF:-1 tvg-id="oksusu|71" tvg-name="K-POP 아이돌" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_71.png" group-title="oksusu radio" radio="true",oksusu K-POP 아이돌
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=71
+#EXTINF:-1 tvg-id="oksusu|75" tvg-name="8090가요" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_75.png" group-title="oksusu radio" radio="true",oksusu 8090가요
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=75
+#EXTINF:-1 tvg-id="oksusu|76" tvg-name="2000년대 인기가요" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_76.png" group-title="oksusu radio" radio="true",oksusu 2000년대 인기가요
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=76
+#EXTINF:-1 tvg-id="oksusu|74" tvg-name="트로트 아리랑" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_74.png" group-title="oksusu radio" radio="true",oksusu 트로트 아리랑
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=74
+#EXTINF:-1 tvg-id="oksusu|72" tvg-name="발라드가요" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_72.png" group-title="oksusu radio" radio="true",oksusu 발라드가요
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=72
+#EXTINF:-1 tvg-id="oksusu|77" tvg-name="팝 노스탈지아" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_77.png" group-title="oksusu radio" radio="true",oksusu 팝 노스탈지아
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=77
+#EXTINF:-1 tvg-id="oksusu|73" tvg-name="힙합&인디 스페셜" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_73.png" group-title="oksusu radio" radio="true",oksusu 힙합&인디 스페셜
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=73
+#EXTINF:-1 tvg-id="oksusu|78" tvg-name="뉴에이지" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_78.png" group-title="oksusu radio" radio="true",oksusu 뉴에이지
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=78
+#EXTINF:-1 tvg-id="oksusu|81" tvg-name="재즈 라운지" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_81.png" group-title="oksusu radio" radio="true",oksusu 재즈 라운지
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=81
+#EXTINF:-1 tvg-id="oksusu|79" tvg-name="클래식 판타지아" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_79.png" group-title="oksusu radio" radio="true",oksusu 클래식 판타지아
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=79
+#EXTINF:-1 tvg-id="oksusu|82" tvg-name="도그 앤 맘" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_82.png" group-title="oksusu radio" radio="true",oksusu 도그 앤 맘
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=82
+#EXTINF:-1 tvg-id="oksusu|83" tvg-name="기독교 음악" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_83.png" group-title="oksusu radio" radio="true",oksusu 기독교 음악
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=83
+#EXTINF:-1 tvg-id="oksusu|80" tvg-name="가톨릭 음악" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_80.png" group-title="oksusu radio" radio="true",oksusu 가톨릭 음악
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=80
+#EXTINF:-1 tvg-id="oksusu|84" tvg-name="불교 음악" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_84.png" group-title="oksusu radio" radio="true",oksusu 불교 음악
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=84
+#EXTINF:-1 tvg-id="oksusu|339" tvg-name="신세계쇼핑" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_339.png" group-title="oksusu",oksusu 신세계쇼핑
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=339
+#EXTINF:-1 tvg-id="oksusu|168" tvg-name="2019 프로야구 CH.1" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_168.png" group-title="oksusu",oksusu 2019 프로야구 CH.1
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=168
+#EXTINF:-1 tvg-id="oksusu|169" tvg-name="2019 프로야구 CH.2" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_169.png" group-title="oksusu",oksusu 2019 프로야구 CH.2
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=169
+#EXTINF:-1 tvg-id="oksusu|161" tvg-name="2019 프로야구 CH.3" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_161.png" group-title="oksusu",oksusu 2019 프로야구 CH.3
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=161
+#EXTINF:-1 tvg-id="oksusu|162" tvg-name="2019 프로야구 CH.4" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_162.png" group-title="oksusu",oksusu 2019 프로야구 CH.4
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=162
+#EXTINF:-1 tvg-id="oksusu|160" tvg-name="2019 프로야구 CH.5" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_160.png" group-title="oksusu",oksusu 2019 프로야구 CH.5
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=160
+#EXTINF:-1 tvg-id="oksusu|167" tvg-name="2018-2019 프리미어리그" tvg-logo="http://image.oksusu.com:8080/thumbnails/image/0_0_F20/live/logo/387/nsepg_167.png" group-title="oksusu",oksusu 2018-2019 프리미어리그
+http://hohoyoun.iptime.org:9999/klive/api/url.m3u8?m=url&s=oksusu&i=167
